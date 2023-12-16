@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+img {
+  border-radius: 50%;
+
+}
+
+
+button{
+  height: 280px;
+  line-height: 80px;
+  width: 280px;
+  font-size: 2em;
+  font-weight: bold;
+  border-radius: 50%;
+  background-color: #4CAF50;
+  color: white;
+  text-align: center;
+  cursor: pointer;
+  background-color: green;
+
+}
